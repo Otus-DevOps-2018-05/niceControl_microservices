@@ -3,3 +3,8 @@ anton/ubuntu-tmp-file   latest              6de4285b5afb        About a minute a
 hello-world             latest              4ab4c602aa5e        4 days ago           1.84kB
 ubuntu                  16.04               b9e15a5d1e1a        5 days ago           115MB
 nginx                   latest              06144b287844        6 days ago           109MB
+
+Образ - это шаблон, на основе которого мы можем запускать контейнеры уже с предустановленными параметрами
+Контейнер - изолированная изменяемая среда, у которой есть свое состояние, квоты ресурсов, различные настройки сети.
+
+
