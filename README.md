@@ -28,3 +28,4 @@ niceControl microservices repository
 * Освоены принципы работы docker контейнеров с различными network driver(none,host,bridge)
 * Созданы контейнеры в разных сетях, налажено общение между этими контейнерами в разных сетях
 * Освоены принципы работы docker-compose, освоена работа с переменными, docker_compose.yml - параметризирован.
+
