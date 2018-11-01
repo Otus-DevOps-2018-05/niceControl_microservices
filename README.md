@@ -41,3 +41,9 @@ niceControl microservices repository
 https://devops-team-otus.slack.com/messages/CB8ADSVL4/
 
 
+# Домашнее задание №17
+
+## В процессе сделано:
+* Создан новый проект, к нему подключен созданный ранее Runner.
+* Расширили pipeline проекта, добавив к нему несколько различных environment, в том числе создание нового env на каждый новый бранч.
+
