@@ -75,4 +75,13 @@ https://devops-team-otus.slack.com/messages/CB8ADSVL4/
 * Освоен способ трассировки с помощью Zipkin
 
 
+#Домашнее задание №21
+
+## В процессе сделано:
+
+* Пройдет туториал *Kubernetes The Hard way* по ссылке - https://github.com/kelseyhightower/kubernetes-the-hard-way
+* В рамках туториала развернули кластер с помощью GCE, настроили сеть, запустили PODs, прогнали smoke-тест из туториала.
+* Протестировали создание Pods для приложения Reddit с помощью команды `kubectl apply -f <filename>` для каждого файла в папке kubernetes/reddit
+* Успешно удалили созданный в рамках туториала кластер.
+
 
